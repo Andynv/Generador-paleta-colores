@@ -1,4 +1,4 @@
-# Generador-paleta-colores:
+# Generador de paleta colores:
 
 Practica de JavaScript y Css.
 
